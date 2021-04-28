@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 My Name is Minhoe Lee
+
 
 <!--
 **minemanemo/minemanemo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,9 +19,11 @@ Here are some ideas to get you started:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minemanemo&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 
-* 😁 My [Resume](https://minemanemo.github.io/)
-* 🖥 Front-End engineer
-* ⚙️ DevOps engineer
+
+- 🔭 I’m currently working on [Motov](https://www.motov.co.kr/)
+- 😁  My [Resume](https://minemanemo.github.io/)
+- 🖥  Front-End engineer
+- ⚙️  DevOps engineer
 
 #### Main Language
 
