@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 * 😁 My [Resume](https://minemanemo.github.io/)
 * 🖥 Front-End engineer
-* ⚙️ DevPos engineer
+* ⚙️ DevOps engineer
 
 #### Main Language
 
