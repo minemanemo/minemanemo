@@ -19,12 +19,15 @@ Here are some ideas to get you started:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minemanemo&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minemanemo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 - 🔭 I’m currently working on [Motov](https://www.motov.co.kr/)
 - 😁  My [Resume](https://minemanemo.github.io/)
 - 🖥  Front-End engineer
 - ⚙️  DevOps engineer
 - 🤗  My main lanuage is <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/> and <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
+
 
 #### Contact
 
