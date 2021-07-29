@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minemanemo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
-- 🔭 I’m currently working on [Motov](https://www.motov.co.kr/)
+- 🔭 I’m currently working on [11st](https://www.11stcorp.com/)
 - 😁  My [Resume](https://minemanemo.github.io/)
 - 🖥  Front-End engineer
 - ⚙️  DevOps engineer
