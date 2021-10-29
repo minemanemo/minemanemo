@@ -16,10 +16,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+# Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minemanemo&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
 
+# Top Language
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minemanemo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+# Trophy
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=minemanemo)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 - 🔭 I’m currently working on [11st](https://www.11stcorp.com/)
