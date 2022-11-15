@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <!--[![trophy](https://github-profile-trophy.vercel.app/?username=minemanemo)](https://github.com/ryo-ma/github-profile-trophy)-->
 
 
-- 🔭 I’m currently working on [11st](https://www.11stcorp.com/)
+- 🔭 I’m currently working on [Coupang](https://www.aboutcoupang.com/)
 - 😁  My [Resume](https://minemanemo.github.io/)
 - 🖥  Front-End engineer
 - ⚙️  DevOps engineer
